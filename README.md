@@ -9,7 +9,7 @@ This project aims to analyze the sales data from a kiosk selling candies, drinks
 - `notebooks/`
   - `01_product_and_category_analysis.ipynb`: Jupyter notebook for analyzing product and category sales.
 - `images/`
-  - `lineal_regression.png`: Image file of the linear regression analysis graph.
+  - `lineal regression.png`: Image file of the linear regression analysis graph.
   - `total sales by product.png`: Image file of the total sales by product analysis graph.
   - `total sales by category.png`: Image file of the total sales by category analysis graph.
 
